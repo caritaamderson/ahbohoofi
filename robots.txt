@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://inuesahkea.hl1987.com/sitemap.xml
